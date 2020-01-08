@@ -1,0 +1,59 @@
+h3 {
+    font-size:15px;
+    margin-bottom:20px;
+    color:hsl(232, 13%, 33%);
+}
+
+h1 {
+    font-size:50px;
+    margin-bottom:20px;
+    color:hsl(232, 13%, 33%);
+}
+
+h2 {
+    color:hsl(233, 13%, 49%);
+}
+
+h4 {
+    font-size:13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:hsl(232, 13%, 33%);
+}
+
+.centerbox h4 {
+    color:#fff;
+}
+.centerbox h1 {
+    color:#fff;
+}
+.centerbox h3 {
+    color:#fff;
+}
+
+.centerbox hr {
+    border-bottom:1px solid rgba(255, 255, 255, 0.205);
+    border-top:0;
+}
+
+hr {
+    border-bottom:1px solid rgba(0, 0, 0, 0.103);
+    border-top:0;
+    margin:20px 0 20px 0;
+}
+
+.toggle {
+    color:hsl(234, 14%, 74%);
+    font-size:12px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 20px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
